@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Task Tracker Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Task Tracking Application that I created using React JS!
+[Task Tracker main pic](https://user-images.githubusercontent.com/92281212/168062813-945ccb34-77ef-4b3a-a704-96ad166c3647.png)
 
-## Available Scripts
+# Functionality 
+The Functionality is very basic You can create a task and save it Using the Add button on the top which is dynamic thanks to React's dynamic functionality you can place a reminder on the Task as well just by double clicking on the Task. Then we have a About Us link down in the footer which leads to another component called About.js. In About.js I included a Go Back Page which will lead the user back to the main page without reloading. Following are the images.
+# Overall View of the App:
+![chrome_Ixrh8Zwa0o](https://user-images.githubusercontent.com/92281212/168067365-4b50c88b-5010-42f7-bfac-8294419ac5b8.png)
+# Step 1:
+![chrome_UGN8CwDYJd](https://user-images.githubusercontent.com/92281212/168067623-4eb81dde-6e9a-4c28-84f8-ed1cf37fee4b.png)
+# Step 2:
+![chrome_F4zuNeANc8](https://user-images.githubusercontent.com/92281212/168067699-8852563b-b7e9-4ed5-a185-a63b44710664.png)
+![chrome_GiptwrjTel](https://user-images.githubusercontent.com/92281212/168067811-abab2eac-1d33-4786-9ccf-706d502c59d3.png)
+# Step 3:
+![chrome_ZTPMJ5TSMO](https://user-images.githubusercontent.com/92281212/168068009-d48c6347-dfcc-49df-ba30-b89b98015298.png)
+![chrome_5GYYmskdye](https://user-images.githubusercontent.com/92281212/168068070-fd4cc559-9830-43a0-8a3f-a825cc4b6f58.png)
+# Step 4:
+![chrome_tS5JmaWAPJ](https://user-images.githubusercontent.com/92281212/168069012-b238f217-c6d7-4ada-9afd-1f85815ca89a.png)
+![chrome_p68gEKVmiT](https://user-images.githubusercontent.com/92281212/168069036-0cef4236-31df-4b91-8eea-0f2734d2d3ab.png)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Note
+This is a very basic Web Application which can help beginners(such as myself ⌣̩̩́_⌣̩̩̀ ). 
