@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Voluptate enim numqu",
+      "day": "Totam quaerat exerci",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Walking For An Hour",
+      "day": "12th may 2022 Wednesday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Going to the Dentist",
+      "day": "16th May 2022 Saturday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
